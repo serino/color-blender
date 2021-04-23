@@ -1,0 +1,1 @@
+This program allows a user to chnge the background image of a square to a preset gradient color option, or they can select their own colors to gradient.
